@@ -6,9 +6,6 @@
 
 ## Technologies Used
 
-_HTML_
-## Technologies Used
-
 * HTML
 * Git Version Control
 * Markdown
